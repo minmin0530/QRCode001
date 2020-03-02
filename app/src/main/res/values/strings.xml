@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QRCode001</string>
+    <string name="qr">qrtest</string>
+    <string name="label">labeltest</string>
+    <string name="image">imagetest</string>
+
+
+</resources>
